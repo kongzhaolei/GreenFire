@@ -16,7 +16,7 @@ public class AddKeyWordServlet extends HttpServlet {
 
 	protected void doGet(HttpServletRequest request,
 			HttpServletResponse response) throws ServletException, IOException {
-		request.setCharacterEncoding("UTF-");
+		request.setCharacterEncoding("UTF-8");
 		Model model = new Model();
 		KeyWord keyWord = new KeyWord();
 		String keyname = request.getParameter("kname");
