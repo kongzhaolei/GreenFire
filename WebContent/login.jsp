@@ -45,7 +45,7 @@
 		<div class="am-g">
 			<h1>GreenFire</h1>
 			<p>
-				Iterface Test Platform<br />接口测试平台
+				Iterface Test Platform<br />监控接口测试平台
 			</p>
 		</div>
 		<hr />

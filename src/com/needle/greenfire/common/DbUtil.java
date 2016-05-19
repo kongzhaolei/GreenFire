@@ -5,6 +5,7 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import java.util.ResourceBundle;
+import org.postgresql.Driver;
 
 public class DbUtil {
 	private PreparedStatement pstmt = null;
