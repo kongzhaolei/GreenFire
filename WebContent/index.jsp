@@ -48,7 +48,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 
 <footer>
   <hr>
-  <p class="am-padding-left">© 2015 ATMS Inc.</p>
+  <p class="am-padding-left">© 2016 goldwind Inc.</p>
 </footer>
 </body>
 </html>
